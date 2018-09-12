@@ -2,7 +2,7 @@
 title: Juli Wang
 SEOTitle: 举利的博客 | Juli Wang
 header-img: img/post-bg-desk.jpg
-email: juliwang0205@gmail.com;juli_0205_126.com
+email: juliwang0205@gmail.com;juli_0205@126.com
 description: "Every failure is leading towards success."
 keyword: "kernel, PCIE, NVME, SPDK, flie system, linux io"
 url: "http://juliwang0205.github.io"          # your host, for absolute URL
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: juliwang
+disqus_username: juliwang
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: juliwang0205.github.io    #仓库名称
+  owner: juliwang0205    #github用户名
+  admin: juliwang0205
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
